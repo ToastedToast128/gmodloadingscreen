@@ -26,6 +26,13 @@ gmodLS.musicFiles = [
     'music/4.ogg',
     'music/5.ogg',
     'music/6.ogg',
+    'music/DreamSweetInSea.ogg',
+    'music/mk64koopa.ogg',
+    'music/muleroblox.ogg',
+    'music/qumucocomall.ogg',
+    'music/raincoconutmalljazz.ogg',
+    'music/rblxwmoonwalk.ogg',
+    'music/speedracergame.ogg',
     'music/7.ogg',
 ];
 
