@@ -33,6 +33,7 @@ gmodLS.musicFiles = [
     'music/raincoconutmalljazz.ogg',
     'music/rblxwmoonwalk.ogg',
     'music/speedracergame.ogg',
+    'music/pumphill.ogg',
     'music/7.ogg',
 ];
 
