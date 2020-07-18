@@ -34,6 +34,14 @@ gmodLS.musicFiles = [
     'music/rblxwmoonwalk.ogg',
     'music/speedracergame.ogg',
     'music/pumphill.ogg',
+	'music/caramell.ogg',
+	'music/dancin.ogg',
+	'music/idontfire.ogg',
+	'music/ra3march.ogg',
+	'music/smlfloss.ogg',
+	'music/songthatcorsairlikes.ogg',
+	'music/soviettetris.ogg',
+	'music/drmariolrc.ogg',
     'music/7.ogg',
 ];
 
