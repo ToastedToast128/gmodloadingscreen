@@ -42,6 +42,7 @@ gmodLS.musicFiles = [
 	'music/songthatcorsairlikes.ogg',
 	'music/soviettetris.ogg',
 	'music/drmariolrc.ogg',
+	'music/katyusha.ogg',
     'music/7.ogg',
 ];
 
